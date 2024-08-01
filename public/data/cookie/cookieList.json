@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "용감한 쿠키",
+    "grade": "common",
+    "type": "타격형",
+    "role": "대미지 딜러",
+    "element": "대지"
+  },
+  {
+    "id": 2,
+    "name": "체리맛 쿠키",
+    "grade": "common",
+    "type": "사격형",
+    "role": "스트라이커",
+    "element": "불"
+  },
+  {
+    "id": 3,
+    "name": "천사맛 쿠키",
+    "grade": "common",
+    "type": "지원형",
+    "role": "서포터",
+    "element": "빛"
+  },
+  {
+    "id": 4,
+    "name": "닌자맛 쿠키",
+    "grade": "common",
+    "type": "사격형",
+    "role": "스트라이커",
+    "element": "바람"
+  },
+  {
+    "id": 5,
+    "name": "근육맛 쿠키",
+    "grade": "common",
+    "type": "타격형",
+    "role": "서포터",
+    "element": "대지"
+  },
+  {
+    "id": 6,
+    "name": "꽈배기맛 쿠키",
+    "grade": "rare",
+    "type": "사격형",
+    "role": "스트라이커",
+    "element": "대지"
+  },
+  {
+    "id": 7,
+    "name": "웨어울프맛 쿠키",
+    "grade": "rare",
+    "type": "베기형",
+    "role": "대미지 딜러",
+    "element": "어둠"
+  },
+  {
+    "id": 8,
+    "name": "피스타치오맛 쿠키",
+    "grade": "rare",
+    "type": "베기형",
+    "role": "서포터",
+    "element": "빛"
+  },
+  {
+    "id": 9,
+    "name": "연금술사맛 쿠키",
+    "grade": "rare",
+    "type": "마법형",
+    "role": "스트라이커",
+    "element": "어둠"
+  },
+  {
+    "id": 10,
+    "name": "버블껌맛 쿠키",
+    "grade": "rare",
+    "type": "사격형",
+    "role": "스트라이커",
+    "element": "물"
+  },
+  {
+    "id": 11,
+    "name": "마라맛 쿠키",
+    "grade": "rare",
+    "type": "타격형",
+    "role": "스트라이커",
+    "element": "불"
+  },
+  {
+    "id": 12,
+    "name": "락스타맛 쿠키",
+    "grade": "epic",
+    "type": "지원형",
+    "role": "서포터",
+    "element": "물"
+  },
+  {
+    "id": 13,
+    "name": "크러쉬드페퍼맛 쿠키",
+    "grade": "epic",
+    "type": "타격형",
+    "role": "서포터",
+    "element": "불"
+  },
+  {
+    "id": 14,
+    "name": "호밀맛 쿠키",
+    "grade": "epic",
+    "type": "사격형",
+    "role": "대미지 딜러",
+    "element": "바람"
+  },
+  {
+    "id": 15,
+    "name": "크림소다맛 쿠키",
+    "grade": "epic",
+    "type": "베기형",
+    "role": "대미지 딜러",
+    "element": "물"
+  },
+  {
+    "id": 16,
+    "name": "칠리맛 쿠키",
+    "grade": "epic",
+    "type": "베기형",
+    "role": "대미지 딜러",
+    "element": "불"
+  },
+  {
+    "id": 17,
+    "name": "다크초코 쿠키",
+    "grade": "epic",
+    "type": "베기형",
+    "role": "대미지 딜러",
+    "element": "어둠"
+  },
+  {
+    "id": 18,
+    "name": "마법사맛 쿠키",
+    "grade": "epic",
+    "type": "마법형",
+    "role": "스트라이커",
+    "element": "빛"
+  },
+  {
+    "id": 19,
+    "name": "플랜틴맛 쿠키",
+    "grade": "epic",
+    "type": "타격형",
+    "role": "스트라이커",
+    "element": "바람"
+  },
+  {
+    "id": 20,
+    "name": "캐모마일맛 쿠키",
+    "grade": "epic",
+    "type": "지원형",
+    "role": "서포터",
+    "element": "바람"
+  },
+  {
+    "id": 21,
+    "name": "스팅두리안맛 쿠키",
+    "grade": "epic",
+    "type": "사격형",
+    "role": "대미지 딜러",
+    "element": "대지"
+  },
+  {
+    "id": 22,
+    "name": "레몬제스트맛 쿠키",
+    "grade": "epic",
+    "type": "사격형",
+    "role": "대미지 딜러",
+    "element": "빛"
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "name": "소원 분수대의 아침",
+    "grade": "common",
+    "role": null,
+    "defaultOption": "방어력"
+  },
+  {
+    "id": 2,
+    "name": "기억의 만개",
+    "grade": "common",
+    "role": null,
+    "defaultOption": "HP"
+  },
+  {
+    "id": 3,
+    "name": "현상수배",
+    "grade": "common",
+    "role": null,
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 4,
+    "name": "환영 선물",
+    "grade": "common",
+    "role": null,
+    "defaultOption": "HP"
+  },
+  {
+    "id": 5,
+    "name": "수상한 찬장",
+    "grade": "common",
+    "role": null,
+    "defaultOption": "치명타 피해"
+  },
+  {
+    "id": 6,
+    "name": "숨겨진 위력",
+    "grade": "common",
+    "role": null,
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 7,
+    "name": "달리는 광차",
+    "grade": "common",
+    "role": null,
+    "defaultOption": "방어력"
+  },
+  {
+    "id": 8,
+    "name": "상부상조",
+    "grade": "common",
+    "role": null,
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 9,
+    "name": "포크레인",
+    "grade": "common",
+    "role": null,
+    "defaultOption": "치명타 피해"
+  },
+  {
+    "id": 10,
+    "name": "사기 충전",
+    "grade": "common",
+    "role": null,
+    "defaultOption": "치명타 확률"
+  },
+  {
+    "id": 11,
+    "name": "바나바나 주술",
+    "grade": "common",
+    "role": null,
+    "defaultOption": "HP"
+  },
+  {
+    "id": 12,
+    "name": "몰아치는 바람",
+    "grade": "common",
+    "role": null,
+    "defaultOption": "HP"
+  },
+  {
+    "id": 13,
+    "name": "예술가의 작품 활동",
+    "grade": "rare",
+    "role": null,
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 14,
+    "name": "수련의 길",
+    "grade": "rare",
+    "role": null,
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 15,
+    "name": "성배를 채운 맹세",
+    "grade": "rare",
+    "role": null,
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 16,
+    "name": "준비 운동",
+    "grade": "rare",
+    "role": null,
+    "defaultOption": "HP"
+  },
+  {
+    "id": 17,
+    "name": "새로운 조합식",
+    "grade": "rare",
+    "role": null,
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 18,
+    "name": "달콤한 폭발",
+    "grade": "rare",
+    "role": null,
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 19,
+    "name": "용기의 탄생",
+    "grade": "rare",
+    "role": null,
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 20,
+    "name": "신성한 헤일로",
+    "grade": "rare",
+    "role": null,
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 21,
+    "name": "희대의 발명",
+    "grade": "rare",
+    "role": null,
+    "defaultOption": "HP"
+  },
+  {
+    "id": 22,
+    "name": "고독한 달밤",
+    "grade": "rare",
+    "role": null,
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 23,
+    "name": "애프터눈 티",
+    "grade": "epic",
+    "role": "지원형",
+    "defaultOption": "HP"
+  },
+  {
+    "id": 24,
+    "name": "앵콜 스테이지",
+    "grade": "epic",
+    "role": "지원형",
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 25,
+    "name": "신나는 순찰시간",
+    "grade": "epic",
+    "role": "사격형",
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 26,
+    "name": "석양 아래 추격전",
+    "grade": "epic",
+    "role": "사격형",
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 27,
+    "name": "잊혀진 마법서의 비밀",
+    "grade": "epic",
+    "role": "마법형",
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 28,
+    "name": "노력의 결실",
+    "grade": "epic",
+    "role": "베기형",
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 29,
+    "name": "돌이킬 수 없는 선택",
+    "grade": "epic",
+    "role": "베기형",
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 30,
+    "name": "작전 개시",
+    "grade": "epic",
+    "role": "베기형",
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 31,
+    "name": "식사는 든든히!",
+    "grade": "epic",
+    "role": "타격형",
+    "defaultOption": "공격력"
+  },
+  {
+    "id": 32,
+    "name": "매운맛 마니아",
+    "grade": "epic",
+    "role": "타격형",
+    "defaultOption": "HP"
+  },
+  {
+    "id": 33,
+    "name": "꿰뚫는 빛",
+    "grade": "epic",
+    "role": "사격형",
+    "defaultOption": "공격력"
+  }
+]

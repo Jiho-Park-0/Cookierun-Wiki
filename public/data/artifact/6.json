@@ -1,0 +1,23 @@
+{
+  "id": 6,
+  "name": "숨겨진 위력",
+  "description": "꽉 막힌 길을 뻥! 뚫어줍니다. 체리 향이 가장 인기.",
+
+  "grade": "common",
+
+  "default": {
+    "option": "공격력",
+    "percentage": 20
+  },
+  "uniqueAbility": {
+    "role": null,
+    "description": "특수 스킬의 피해량이 {}% 증가한다."
+  },
+  "promotion": {
+    "1": [10],
+    "2": [12],
+    "3": [14],
+    "4": [16],
+    "5": [18]
+  }
+}

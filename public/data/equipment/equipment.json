@@ -1,0 +1,870 @@
+[
+  {
+    "id": 1,
+    "name": "이 빠진 빵칼",
+    "grade": "common",
+    "defaultOption": "공격력",
+    "uniqueOption": "치명타 확률"
+  },
+  {
+    "id": 2,
+    "name": "낡은 장인의 망치",
+    "grade": "common",
+    "defaultOption": "공격력",
+    "uniqueOption": "HP"
+  },
+  {
+    "id": 3,
+    "name": "평범한 나무지팡이",
+    "grade": "common",
+    "defaultOption": "공격력",
+    "uniqueOption": "방어력"
+  },
+  {
+    "id": 4,
+    "name": "녹슨 롱소드",
+    "grade": "uncommon",
+    "defaultOption": "공격력",
+    "uniqueOption": "HP"
+  },
+  {
+    "id": 5,
+    "name": "빛바랜 단검",
+    "grade": "uncommon",
+    "defaultOption": "공격력",
+    "uniqueOption": "치명타 확률"
+  },
+  {
+    "id": 6,
+    "name": "뾰족뾰족 죽창",
+    "grade": "uncommon",
+    "defaultOption": "공격력",
+    "uniqueOption": "치명타 피해"
+  },
+  {
+    "id": 7,
+    "name": "연습용 나무검",
+    "grade": "uncommon",
+    "defaultOption": "공격력",
+    "uniqueOption": "기본 공격 피해"
+  },
+  {
+    "id": 8,
+    "name": "나무꾼의 애착도끼",
+    "grade": "uncommon",
+    "defaultOption": "공격력",
+    "uniqueOption": "방어력"
+  },
+  {
+    "id": 9,
+    "name": "사냥꾼의 활",
+    "grade": "rare",
+    "defaultOption": "공격력",
+    "uniqueOption": "치명타 피해"
+  },
+  {
+    "id": 10,
+    "name": "초코막대 강철망치",
+    "grade": "rare",
+    "defaultOption": "공격력",
+    "uniqueOption": "방어력 관통"
+  },
+  {
+    "id": 11,
+    "name": "튼튼한 롱소드",
+    "grade": "rare",
+    "defaultOption": "공격력",
+    "uniqueOption": "HP"
+  },
+  {
+    "id": 12,
+    "name": "무법자의 단검",
+    "grade": "rare",
+    "defaultOption": "공격력",
+    "uniqueOption": "치명타 확률"
+  },
+  {
+    "id": 13,
+    "name": "향기로운 월계수 활",
+    "grade": "epic",
+    "defaultOption": "공격력",
+    "uniqueOption": "모든 속성 피해"
+  },
+  {
+    "id": 14,
+    "name": "단단한 바게트 봉",
+    "grade": "epic",
+    "defaultOption": "공격력",
+    "uniqueOption": "치명타 피해"
+  },
+  {
+    "id": 15,
+    "name": "팝핑 캔디 부메랑",
+    "grade": "epic",
+    "defaultOption": "공격력",
+    "uniqueOption": "치명타 확률"
+  },
+  {
+    "id": 16,
+    "name": "아몬드 콕콕 초코망치",
+    "grade": "epic",
+    "defaultOption": "공격력",
+    "uniqueOption": "방어력"
+  },
+  {
+    "id": 17,
+    "name": "블루베리 매직완드",
+    "grade": "epic",
+    "defaultOption": "공격력",
+    "uniqueOption": "HP"
+  },
+  {
+    "id": 18,
+    "name": "황금오렌지 초코창",
+    "grade": "epic",
+    "defaultOption": "공격력",
+    "uniqueOption": "공격력"
+  },
+  {
+    "id": 19,
+    "name": "용감한 캔디케인",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "최종 피해"
+  },
+  {
+    "id": 20,
+    "name": "잘 익은 체리폭탄",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "최종 피해"
+  },
+  {
+    "id": 21,
+    "name": "별빛가득 천사지팡이",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "회복량"
+  },
+  {
+    "id": 22,
+    "name": "날쌘 닌자 수리검",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "최종 피해"
+  },
+  {
+    "id": 23,
+    "name": "후끈후끈 거대 덤벨",
+    "grade": "unique",
+    "defaultOption": "HP",
+    "uniqueOption": "최종 피해"
+  },
+  {
+    "id": 24,
+    "name": "뚝딱뚝딱 꽈배기스패너",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "최종 피해"
+  },
+  {
+    "id": 25,
+    "name": "웨어울프 너클",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "최종 피해"
+  },
+  {
+    "id": 26,
+    "name": "사명이 깃든 피스타치오 방패",
+    "grade": "unique",
+    "defaultOption": "HP",
+    "uniqueOption": "보호막량"
+  },
+  {
+    "id": 27,
+    "name": "수상한 연금술 플라스크",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "최종 피해"
+  },
+  {
+    "id": 28,
+    "name": "쫀득한 버블껌포",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "최종 피해"
+  },
+  {
+    "id": 29,
+    "name": "락앤롤! 일렉기타",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "버프 증폭"
+  },
+  {
+    "id": 30,
+    "name": "트리플 핫! 페퍼건틀렛",
+    "grade": "unique",
+    "defaultOption": "HP",
+    "uniqueOption": "보호막량"
+  },
+  {
+    "id": 31,
+    "name": "쌉싸름한 호밀쌍권총",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "최종 피해"
+  },
+  {
+    "id": 32,
+    "name": "시원한 소다 레이피어",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "최종 피해"
+  },
+  {
+    "id": 33,
+    "name": "스파이시 칠리단검",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "최종 피해"
+  },
+  {
+    "id": 34,
+    "name": "금지된 딸기잼 마법검",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "최종 피해"
+  },
+  {
+    "id": 35,
+    "name": "특별한 마법사탕지팡이",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "최종 피해"
+  },
+  {
+    "id": 36,
+    "name": "단단한 플랜틴 부메랑",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "최종 피해"
+  },
+  {
+    "id": 37,
+    "name": "향긋한 플라워 티스푼",
+    "grade": "unique",
+    "defaultOption": "HP",
+    "uniqueOption": "회복량"
+  },
+  {
+    "id": 38,
+    "name": "뾰족뾰족 두리안 바주카",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "최종 피해"
+  },
+  {
+    "id": 39,
+    "name": "라이트닝 레몬보우",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "최종 피해"
+  },
+  {
+    "id": 40,
+    "name": "유행 지난 캡모자",
+    "grade": "common",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "공격력"
+  },
+  {
+    "id": 41,
+    "name": "초코볼 투구",
+    "grade": "common",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "HP"
+  },
+  {
+    "id": 42,
+    "name": "평범한 밀짚모자",
+    "grade": "common",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "치명타 확률"
+  },
+  {
+    "id": 43,
+    "name": "수습생의 고깔 모자",
+    "grade": "uncommon",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "공격력"
+  },
+  {
+    "id": 44,
+    "name": "채소마을 두건",
+    "grade": "uncommon",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "치명타 피해"
+  },
+  {
+    "id": 45,
+    "name": "경비병의 강철투구",
+    "grade": "uncommon",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "방어력"
+  },
+  {
+    "id": 46,
+    "name": "쫀득한 젤리 헌팅캡",
+    "grade": "rare",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "방어력 관통"
+  },
+  {
+    "id": 47,
+    "name": "폭신한 니트 모자",
+    "grade": "rare",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "보호막량"
+  },
+  {
+    "id": 48,
+    "name": "감각적인 반다나",
+    "grade": "rare",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "치명타 피해"
+  },
+  {
+    "id": 49,
+    "name": "유행하는 패션모자",
+    "grade": "rare",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "방어력"
+  },
+  {
+    "id": 50,
+    "name": "두근두근 배달부모자",
+    "grade": "rare",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "HP"
+  },
+  {
+    "id": 51,
+    "name": "케이크 실크해트",
+    "grade": "rare",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "공격력"
+  },
+  {
+    "id": 52,
+    "name": "파티의 주인공 모자",
+    "grade": "epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "버프 증폭"
+  },
+  {
+    "id": 53,
+    "name": "불타는 마시멜로 모자",
+    "grade": "epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "보호막량"
+  },
+  {
+    "id": 54,
+    "name": "진주 박힌 은빛 티아라",
+    "grade": "epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "회복량"
+  },
+  {
+    "id": 55,
+    "name": "비밀스러운 대나무 삿갓",
+    "grade": "epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "치명타 피해"
+  },
+  {
+    "id": 56,
+    "name": "반짝이는 황금장미 화관",
+    "grade": "epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "치명타 확률"
+  },
+  {
+    "id": 57,
+    "name": "예언자의 길잡이 모자",
+    "grade": "epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "방어력"
+  },
+  {
+    "id": 58,
+    "name": "빛나는 수호자의 설탕투구",
+    "grade": "epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "HP"
+  },
+  {
+    "id": 59,
+    "name": "신비로운 오로라 두건",
+    "grade": "epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "공격력"
+  },
+  {
+    "id": 60,
+    "name": "불도깨비 탈",
+    "grade": "super epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "불 속성 공격력"
+  },
+  {
+    "id": 61,
+    "name": "바다의 인어 서클렛",
+    "grade": "super epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "물 속성 공격력"
+  },
+  {
+    "id": 62,
+    "name": "바람의 요정 헤어핀",
+    "grade": "super epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "바람 속성 공격력"
+  },
+  {
+    "id": 63,
+    "name": "대지의 후예 모자",
+    "grade": "super epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "대지 속성 공격력"
+  },
+  {
+    "id": 64,
+    "name": "태양의 기사 투구",
+    "grade": "super epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "빛 속성 공격력"
+  },
+  {
+    "id": 65,
+    "name": "어둠의 백작 모노클",
+    "grade": "super epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "어둠 속성 공격력"
+  },
+  {
+    "id": 66,
+    "name": "순백의 사제 모자",
+    "grade": "super epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "HP"
+  },
+  {
+    "id": 67,
+    "name": "달콤한 설탕 깃털복 머리장식",
+    "grade": "super epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "공격력"
+  },
+  {
+    "id": 68,
+    "name": "동방의 저명한 약초사 모자",
+    "grade": "super epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "공격력"
+  },
+  {
+    "id": 69,
+    "name": "예티의 눈폭풍 털모자",
+    "grade": "super epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "HP"
+  },
+  {
+    "id": 70,
+    "name": "전설의 유령해적 모자",
+    "grade": "super epic",
+    "defaultOption": "모든 속성 피해",
+    "uniqueOption": "디버프 증폭"
+  },
+  {
+    "id": 71,
+    "name": "가벼운 탱크탑",
+    "grade": "common",
+    "defaultOption": "방어력",
+    "uniqueOption": "방어력"
+  },
+  {
+    "id": 72,
+    "name": "편안한 쿠키셔츠",
+    "grade": "common",
+    "defaultOption": "방어력",
+    "uniqueOption": "HP"
+  },
+  {
+    "id": 73,
+    "name": "따뜻한 갈색 니트",
+    "grade": "common",
+    "defaultOption": "방어력",
+    "uniqueOption": "공격력"
+  },
+  {
+    "id": 74,
+    "name": "화려한 삼색 스웨터",
+    "grade": "uncommon",
+    "defaultOption": "방어력",
+    "uniqueOption": "방어력"
+  },
+  {
+    "id": 75,
+    "name": "낡은 도복 상의",
+    "grade": "uncommon",
+    "defaultOption": "방어력",
+    "uniqueOption": "HP"
+  },
+  {
+    "id": 76,
+    "name": "단단한 초코가죽갑옷",
+    "grade": "uncommon",
+    "defaultOption": "방어력",
+    "uniqueOption": "공격력"
+  },
+  {
+    "id": 77,
+    "name": "달콤한 캔디 블라우스",
+    "grade": "rare",
+    "defaultOption": "방어력",
+    "uniqueOption": "회복량"
+  },
+  {
+    "id": 78,
+    "name": "모험가의 튜닉",
+    "grade": "rare",
+    "defaultOption": "방어력",
+    "uniqueOption": "치명타 확률"
+  },
+  {
+    "id": 79,
+    "name": "녹슨 사슬갑옷",
+    "grade": "rare",
+    "defaultOption": "방어력",
+    "uniqueOption": "공격력"
+  },
+  {
+    "id": 80,
+    "name": "살랑살랑 소다로브",
+    "grade": "rare",
+    "defaultOption": "방어력",
+    "uniqueOption": "HP"
+  },
+  {
+    "id": 81,
+    "name": "블랙호딕 고딕 드레스",
+    "grade": "epic",
+    "defaultOption": "방어력",
+    "uniqueOption": "치명타 확률"
+  },
+  {
+    "id": 82,
+    "name": "고대의 황금 케이프",
+    "grade": "epic",
+    "defaultOption": "방어력",
+    "uniqueOption": "보호막량"
+  },
+  {
+    "id": 83,
+    "name": "로열 카카오 코트",
+    "grade": "epic",
+    "defaultOption": "방어력",
+    "uniqueOption": "회복량"
+  },
+  {
+    "id": 84,
+    "name": "지혜의 버터망토",
+    "grade": "epic",
+    "defaultOption": "방어력",
+    "uniqueOption": "받는 피해 감소"
+  },
+  {
+    "id": 85,
+    "name": "마법의 블루베리 드레스",
+    "grade": "epic",
+    "defaultOption": "방어력",
+    "uniqueOption": "HP"
+  },
+  {
+    "id": 86,
+    "name": "성스러운 사탕갑옷",
+    "grade": "epic",
+    "defaultOption": "방어력",
+    "uniqueOption": "공격력"
+  },
+  {
+    "id": 87,
+    "name": "불도깨비 상의",
+    "grade": "super epic",
+    "defaultOption": "방어력",
+    "uniqueOption": "불 속성 피해"
+  },
+  {
+    "id": 88,
+    "name": "바다의 인어 상의",
+    "grade": "super epic",
+    "defaultOption": "방어력",
+    "uniqueOption": "물 속성 피해"
+  },
+  {
+    "id": 89,
+    "name": "바람의 요정 상의",
+    "grade": "super epic",
+    "defaultOption": "방어력",
+    "uniqueOption": "바람 속성 피해"
+  },
+  {
+    "id": 90,
+    "name": "대지의 후예 상의",
+    "grade": "super epic",
+    "defaultOption": "방어력",
+    "uniqueOption": "대지 속성 피해"
+  },
+  {
+    "id": 91,
+    "name": "태양의 기사 상의",
+    "grade": "super epic",
+    "defaultOption": "방어력",
+    "uniqueOption": "빛 속성 피해"
+  },
+  {
+    "id": 92,
+    "name": "어둠의 백작 상의",
+    "grade": "super epic",
+    "defaultOption": "방어력",
+    "uniqueOption": "어둠 속성 피해"
+  },
+  {
+    "id": 93,
+    "name": "순백의 사제 상의",
+    "grade": "super epic",
+    "defaultOption": "방어력",
+    "uniqueOption": "보호막량"
+  },
+  {
+    "id": 94,
+    "name": "달콤한 설탕 깃털복 상의",
+    "grade": "super epic",
+    "defaultOption": "방어력",
+    "uniqueOption": "방어력 관통"
+  },
+  {
+    "id": 95,
+    "name": "동방의 저명한 약초사 상의",
+    "grade": "super epic",
+    "defaultOption": "방어력",
+    "uniqueOption": "HP"
+  },
+  {
+    "id": 96,
+    "name": "예티의 눈폭풍 상의",
+    "grade": "super epic",
+    "defaultOption": "방어력",
+    "uniqueOption": "방어력"
+  },
+  {
+    "id": 97,
+    "name": "전설의 유령해적 상의",
+    "grade": "super epic",
+    "defaultOption": "방어력",
+    "uniqueOption": "공격력"
+  },
+  {
+    "id": 98,
+    "name": "간편한 청바지",
+    "grade": "common",
+    "defaultOption": "HP",
+    "uniqueOption": "공격력"
+  },
+  {
+    "id": 99,
+    "name": "단순한 레깅스",
+    "grade": "common",
+    "defaultOption": "HP",
+    "uniqueOption": "HP"
+  },
+  {
+    "id": 100,
+    "name": "운동용 반바지",
+    "grade": "common",
+    "defaultOption": "HP",
+    "uniqueOption": "방어력"
+  },
+  {
+    "id": 101,
+    "name": "딱딱한 나무 각반",
+    "grade": "uncommon",
+    "defaultOption": "HP",
+    "uniqueOption": "공격력"
+  },
+  {
+    "id": 102,
+    "name": "오래된 도복 바지",
+    "grade": "uncommon",
+    "defaultOption": "HP",
+    "uniqueOption": "HP"
+  },
+  {
+    "id": 103,
+    "name": "튼튼한 초코바지",
+    "grade": "uncommon",
+    "defaultOption": "HP",
+    "uniqueOption": "방어력"
+  },
+  {
+    "id": 104,
+    "name": "화려한 가죽바지",
+    "grade": "rare",
+    "defaultOption": "HP",
+    "uniqueOption": "치명타 피해"
+  },
+  {
+    "id": 105,
+    "name": "땅콩사막의 비단바지",
+    "grade": "rare",
+    "defaultOption": "HP",
+    "uniqueOption": "버프 증폭"
+  },
+  {
+    "id": 106,
+    "name": "단단한 사슬 보호대",
+    "grade": "rare",
+    "defaultOption": "HP",
+    "uniqueOption": "방어력"
+  },
+  {
+    "id": 107,
+    "name": "바나바나 스커트",
+    "grade": "rare",
+    "defaultOption": "HP",
+    "uniqueOption": "받는 피해 감소"
+  },
+  {
+    "id": 108,
+    "name": "영험한 베리석 바지",
+    "grade": "epic",
+    "defaultOption": "HP",
+    "uniqueOption": "받는 피해 감소"
+  },
+  {
+    "id": 109,
+    "name": "빛나는 용의 황금갑옷",
+    "grade": "epic",
+    "defaultOption": "HP",
+    "uniqueOption": "공격력"
+  },
+  {
+    "id": 110,
+    "name": "어둠의 암살자 바지",
+    "grade": "epic",
+    "defaultOption": "HP",
+    "uniqueOption": "치명타 피해"
+  },
+  {
+    "id": 111,
+    "name": "신비한 별빛 스커트",
+    "grade": "epic",
+    "defaultOption": "HP",
+    "uniqueOption": "디버프 증폭"
+  },
+  {
+    "id": 112,
+    "name": "음악대의 나팔바지",
+    "grade": "epic",
+    "defaultOption": "HP",
+    "uniqueOption": "버프 증폭"
+  },
+  {
+    "id": 113,
+    "name": "숲지기의 젤리 바지",
+    "grade": "epic",
+    "defaultOption": "HP",
+    "uniqueOption": "방어력"
+  },
+  {
+    "id": 114,
+    "name": "불도깨비 하의",
+    "grade": "super epic",
+    "defaultOption": "HP",
+    "uniqueOption": "불 속성 피해"
+  },
+  {
+    "id": 115,
+    "name": "바다의 인어 하의",
+    "grade": "super epic",
+    "defaultOption": "HP",
+    "uniqueOption": "물 속성 피해"
+  },
+  {
+    "id": 116,
+    "name": "바람의 요정 하의",
+    "grade": "super epic",
+    "defaultOption": "HP",
+    "uniqueOption": "바람 속성 피해"
+  },
+  {
+    "id": 117,
+    "name": "대지의 후예 하의",
+    "grade": "super epic",
+    "defaultOption": "HP",
+    "uniqueOption": "대지 속성 피해"
+  },
+  {
+    "id": 118,
+    "name": "태양의 기사 하의",
+    "grade": "super epic",
+    "defaultOption": "HP",
+    "uniqueOption": "빛 속성 피해"
+  },
+  {
+    "id": 119,
+    "name": "어둠의 백작 하의",
+    "grade": "super epic",
+    "defaultOption": "HP",
+    "uniqueOption": "어둠 속성 피해"
+  },
+  {
+    "id": 120,
+    "name": "순백의 사제 하의",
+    "grade": "super epic",
+    "defaultOption": "HP",
+    "uniqueOption": "회복량"
+  },
+  {
+    "id": 121,
+    "name": "달콤한 설탕 깃털복 하의",
+    "grade": "super epic",
+    "defaultOption": "HP",
+    "uniqueOption": "모든 속성 공격력"
+  },
+  {
+    "id": 122,
+    "name": "동방의 저명한 약초사 하의",
+    "grade": "super epic",
+    "defaultOption": "HP",
+    "uniqueOption": "방어력"
+  },
+  {
+    "id": 123,
+    "name": "예티의 눈폭풍 하의",
+    "grade": "super epic",
+    "defaultOption": "HP",
+    "uniqueOption": "받는 피해 감소"
+  },
+  {
+    "id": 124,
+    "name": "전설의 유령해적 하의",
+    "grade": "super epic",
+    "defaultOption": "HP",
+    "uniqueOption": "HP"
+  }
+]

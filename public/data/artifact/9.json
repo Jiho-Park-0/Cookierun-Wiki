@@ -1,0 +1,23 @@
+{
+  "id": 9,
+  "name": "포크레인",
+  "description": "거대한 포크는 하나만 떨어지는 법이 없다.",
+
+  "grade": "common",
+
+  "default": {
+    "option": "치명타 피해",
+    "percentage": 24
+  },
+  "uniqueAbility": {
+    "role": null,
+    "description": "궁극기의 치명타 확률이 {}% 증가한다."
+  },
+  "promotion": {
+    "1": [12],
+    "2": [14],
+    "3": [16],
+    "4": [18],
+    "5": [20]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1,
+  "name": "용감한 쿠키",
+  "grade": "common",
+  "type": "타격형",
+  "role": "대미지 딜러",
+  "element": "대지",
+  "artifact": "용기의 탄생",
+  "equipment": "용감한 캔디케인",
+  "description": "맨 처음 탈출을 감행한 용감한 쿠키. 구워지고 있던 쿠키가 어떻게 해서 생명을 얻게 되었는지 알려져 있지 않다. 아마도 쿠키를 만들던 마녀가 생강가루와 생명을 주는 마법가루를 혼동했던 것 아닐까?",
+  "attackType": 0,
+  "skills": {
+    "passive": {
+      "name": "오븐브레이커",
+      "description": "치명타 확률이 증가한다.",
+      "effect": "치명타 확률 증가: 10%"
+    },
+    "basicAttack": {
+      "name": "캔디케인 어택",
+      "description": "캔디케인을 휘둘러 최대 3번 공격한다.",
+      "effect": "1타 피해: 90%\n2타 피해: 90%\n3타 피해: 104%"
+    },
+    "chargeAttack": {
+      "name": null,
+      "description": null,
+      "effect": null
+    },
+    "special": {
+      "name": "용감한 일격",
+      "description": "캔디케인으로 지면을 강하게 내려 찍는다.",
+      "effect": "쿨타임: 6초\n스킬 피해: 420%"
+    },
+    "ultimate": {
+      "name": "물러서지 않아!",
+      "description": "전방으로 돌진하며 피해를 주고, 점프 후 캔디케인으로 지면을 내리쳐 넓은 범위에 피해를 준다.",
+      "effect": "쿨타임: 28초\n돌진 피해: 79% x6\n범위 피해: 893%"
+    },
+    "dash": {
+      "name": "대시",
+      "description": "전방으로 빠르게 돌진한다.",
+      "effect": ""
+    }
+  },
+  "promotion": {
+    "2": {
+      "name": "달리기하면 나지!",
+      "description": "대시 사용 후, 다음 공격의 피해가 증가한다.",
+      "effect": "피해 증가: 100%"
+    },
+    "3": {
+      "name": "능력치 증가",
+      "description": null,
+      "effect": "공격력/방어력/HP 5% 증가"
+    },
+    "4": {
+      "name": "불굴의 의지",
+      "description": "[물러서지 않아!(궁극기)] 사용 후, 용감한 쿠키의 치명타 확률이 증가한다.",
+      "effect": "치명타 확률 증가: 30% (지속 시간 : 10초)"
+    },
+    "5": {
+      "name": "넘치는 용기",
+      "description": "HP가 50% 이상인 적을 공격 시, 대지 속성 피해가 증가한다.",
+      "effect": "피해 증가: 40%"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 10,
+  "name": "사기 충전",
+  "description": "달콤하게 울리는 바나나북 소리가 기운을 북돋는다.",
+
+  "grade": "common",
+
+  "default": {
+    "option": "치명타 확률",
+    "percentage": 14
+  },
+  "uniqueAbility": {
+    "role": null,
+    "description": "특수 스킬 사용 후, 공격력이 {}% 증가한다. (지속 시간 : 3초)"
+  },
+  "promotion": {
+    "1": [16],
+    "2": [18],
+    "3": [20],
+    "4": [22],
+    "5": [24]
+  }
+}

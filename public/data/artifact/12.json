@@ -1,0 +1,23 @@
+{
+  "id": 12,
+  "name": "몰아치는 바람",
+  "description": "숲의 젤리들이 출렁일 정도로 거대한 바람이 분다.",
+
+  "grade": "common",
+
+  "default": {
+    "option": "HP",
+    "percentage": 20
+  },
+  "uniqueAbility": {
+    "role": null,
+    "description": "피격 후, 이동속도가 {}% 증가한다. (지속 시간 : 3초)"
+  },
+  "promotion": {
+    "1": [12],
+    "2": [14],
+    "3": [16],
+    "4": [18],
+    "5": [20]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5,
+  "name": "수상한 찬장",
+  "description": "마녀는 어떤 걸 만들고 있던 걸까?",
+
+  "grade": "common",
+
+  "default": {
+    "option": "치명타 피해",
+    "percentage": 24
+  },
+  "uniqueAbility": {
+    "role": null,
+    "description": "기본 공격의 피해량이 {}% 증가한다."
+  },
+  "promotion": {
+    "1": [10],
+    "2": [12],
+    "3": [14],
+    "4": [16],
+    "5": [18]
+  }
+}

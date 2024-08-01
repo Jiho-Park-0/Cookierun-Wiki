@@ -1,0 +1,23 @@
+{
+  "id": 7,
+  "name": "달리는 광차",
+  "description": "쿠키들이 떠난 광산에서도 광차는 멈추지 않는다.",
+
+  "grade": "common",
+
+  "default": {
+    "option": "방어력",
+    "percentage": 20
+  },
+  "uniqueAbility": {
+    "role": null,
+    "description": "대시의 쿨타임이 {}% 감소한다."
+  },
+  "promotion": {
+    "1": [8],
+    "2": [12],
+    "3": [16],
+    "4": [20],
+    "5": [24]
+  }
+}

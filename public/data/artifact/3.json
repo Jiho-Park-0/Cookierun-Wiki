@@ -1,0 +1,23 @@
+{
+  "id": 3,
+  "name": "현상수배",
+  "description": "바래버린 수배지여도 그 위에 가득한 총구멍만큼은 선명하다.",
+
+  "grade": "common",
+
+  "default": {
+    "option": "공격력",
+    "percentage": 20
+  },
+  "uniqueAbility": {
+    "role": null,
+    "description": "HP가 80% 이상일 때 치명타 피해가 {}% 증가한다."
+  },
+  "promotion": {
+    "1": [12],
+    "2": [14],
+    "3": [16],
+    "4": [18],
+    "5": [20]
+  }
+}

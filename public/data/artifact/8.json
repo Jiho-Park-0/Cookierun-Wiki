@@ -1,0 +1,23 @@
+{
+  "id": 8,
+  "name": "상부상조",
+  "description": "이제는 비어버렸지만 누군가에겐 보물과도 같은 장소가 되었다.",
+
+  "grade": "common",
+
+  "default": {
+    "option": "공격력",
+    "percentage": 20
+  },
+  "uniqueAbility": {
+    "role": null,
+    "description": "특수 스킬의 쿨타임이 {}% 감소한다."
+  },
+  "promotion": {
+    "1": [10],
+    "2": [12],
+    "3": [14],
+    "4": [16],
+    "5": [18]
+  }
+}

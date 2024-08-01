@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "name": "소원 분수대의 아침",
+  "description": "반짝이며 흐르는 물에선 상큼한 시트러스 향이 난다.",
+
+  "grade": "common",
+
+  "default": {
+    "option": "방어력",
+    "percentage": 20
+  },
+  "uniqueAbility": {
+    "role": null,
+    "description": "쿠키를 부활시키는 속도가 {}% 빨라진다."
+  },
+  "promotion": {
+    "1": [10],
+    "2": [12],
+    "3": [14],
+    "4": [16],
+    "5": [18]
+  }
+}

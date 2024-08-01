@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "part": "",
+
+  "description": "",
+  "grade": "",
+
+  "default": {
+    "option": "",
+    "minValue": "",
+    "maxValue": ""
+  },
+
+  "unique": {
+    "cookie": "",
+    "option": "",
+    "minValue": "",
+    "maxValue": ""
+  },
+
+  "set name": ""
+}

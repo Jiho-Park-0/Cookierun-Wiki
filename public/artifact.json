@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "description": "",
+
+  "grade": "",
+
+  "default": {
+    "option": "",
+    "percentage": ""
+  },
+  "uniqueAbility": {
+    "role": "",
+    "description": ""
+  },
+  "promotion": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": []
+  }
+}

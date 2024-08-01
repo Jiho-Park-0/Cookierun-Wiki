@@ -1,0 +1,68 @@
+{
+  "id": "",
+  "name": "",
+
+  "grade": "",
+  "type": "",
+  "roleGroup": "",
+  "attribution": "",
+  "artifact": "",
+  "equipment": "",
+
+  "description": "",
+  "skills": {
+    "passive": {
+      "name": "",
+      "description": "",
+      "effect": ""
+    },
+    "attack": {
+      "basicAttack": {
+        "name": "",
+        "description": "",
+        "effect": ""
+      },
+      "chargeAttack": {
+        "name": "",
+        "description": "",
+        "effect": ""
+      }
+    },
+    "special": {
+      "name": "",
+      "description": "",
+      "effect": ""
+    },
+    "ultimate": {
+      "name": "",
+      "description": "",
+      "effect": ""
+    },
+    "dash": {
+      "name": "",
+      "description": ""
+    }
+  },
+  "promotion": {
+    "2": {
+      "name": "",
+      "description": "",
+      "effect": ""
+    },
+    "3": {
+      "name": "",
+      "description": "",
+      "effect": ""
+    },
+    "4": {
+      "name": "",
+      "description": "",
+      "effect": ""
+    },
+    "5": {
+      "name": "",
+      "description": "",
+      "effect": ""
+    }
+  }
+}

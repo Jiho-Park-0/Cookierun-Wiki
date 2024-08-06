@@ -1,0 +1,23 @@
+{
+  "id": 23,
+  "name": "후끈후끈 거대 덤벨",
+  "part": "weapon",
+
+  "description": "근육을 단련하기 딱 좋은 무게의 덤벨. 설탕땀을 흘린 만큼 뿌듯함도 커진다구!",
+  "grade": "unique",
+
+  "default": {
+    "option": "HP",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "근육맛 쿠키",
+    "option": "보호막량",
+    "minValue": 16,
+    "maxValue": 24
+  },
+
+  "set name": null
+}

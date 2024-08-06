@@ -1,0 +1,23 @@
+{
+  "id": 17,
+  "name": "블루베리 매직완드",
+  "part": "weapon",
+
+  "description": "녹지 않는 블루베리 아이스크림으로 만든 마법 지팡이. 유령마을에서 만들었다고 전해진다.",
+  "grade": "epic",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "HP",
+    "minValue": 16,
+    "maxValue": 24
+  },
+
+  "set name": null
+}

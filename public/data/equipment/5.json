@@ -1,0 +1,23 @@
+{
+  "id": 5,
+  "name": "빛바랜 단검",
+  "part": "weapon",
+
+  "description": "얼굴도 비치지 않을 정도로 바래버린 단검. 얼마나 오래된걸까?",
+  "grade": "uncommon",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 9.45,
+    "maxValue": 27
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "치명타 확률",
+    "minValue": 6,
+    "maxValue": 9
+  },
+
+  "set name": null
+}

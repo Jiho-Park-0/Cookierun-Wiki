@@ -1,0 +1,23 @@
+{
+  "id": 13,
+  "name": "향기로운 월계수 활",
+  "part": "weapon",
+
+  "description": "오래된 월계수의 가지로 만든 활. 활시위를 당길수록 월계수 향이 짙어진다.",
+  "grade": "epic",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "모든 속성 피해",
+    "minValue": 9.6,
+    "maxValue": 14.4
+  },
+
+  "set name": null
+}

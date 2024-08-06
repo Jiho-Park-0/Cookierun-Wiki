@@ -1,0 +1,23 @@
+{
+  "id": 16,
+  "name": "아몬드 콕콕 초코망치",
+  "part": "weapon",
+
+  "description": "단단한 아몬드만 골라 넣고 꽝꽝 굳힌 초코망치. 단단한 만큼 무거워서 들지 못하는 쿠키들이 많다.",
+  "grade": "epic",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "방어력",
+    "minValue": 16,
+    "maxValue": 24
+  },
+
+  "set name": null
+}

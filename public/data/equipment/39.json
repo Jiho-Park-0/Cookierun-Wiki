@@ -1,0 +1,23 @@
+{
+  "id": 39,
+  "name": "라이트닝 레몬보우",
+  "part": "weapon",
+
+  "description": "잡기만 해도 찌르르 전율이 흐른다는 활. 자질을 갖춘 자만이 활에 번개를 모아 쏠 수 있다고 한다.",
+  "grade": "unique",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "레몬제스트맛 쿠키",
+    "option": "최종 피해",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": null
+}

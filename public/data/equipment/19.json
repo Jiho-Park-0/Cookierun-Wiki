@@ -1,0 +1,23 @@
+{
+  "id": 19,
+  "name": "용감한 캔디케인",
+  "part": "weapon",
+
+  "description": "쿠키의 가장 기본적인 무기! 아무리 휘둘러도 부서지지 않는다는데... 캔디 맞지?",
+  "grade": "unique",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "용감한 쿠키",
+    "option": "최종 피해",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": null
+}

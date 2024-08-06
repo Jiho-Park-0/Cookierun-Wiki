@@ -1,0 +1,23 @@
+{
+  "id": 9,
+  "name": "사냥꾼의 활",
+  "part": "weapon",
+
+  "description": "사냥 용도로 만들어진 활. 보기엔 투박하지만 성능은 꽤 뛰어나다.",
+  "grade": "rare",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 10.5,
+    "maxValue": 35
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "치명타 피해",
+    "minValue": 15,
+    "maxValue": 22.5
+  },
+
+  "set name": null
+}

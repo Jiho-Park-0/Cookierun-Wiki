@@ -1,0 +1,23 @@
+{
+  "id": 15,
+  "name": "팝핑 캔디 부메랑",
+  "part": "weapon",
+
+  "description": "팝핑 캔디가 박힌 알록달록 부메랑. 힘껏 던지면 톡톡 터지는 소리를 내면서 날아간다.",
+  "grade": "epic",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "치명타 확률",
+    "minValue": 12,
+    "maxValue": 18
+  },
+
+  "set name": null
+}

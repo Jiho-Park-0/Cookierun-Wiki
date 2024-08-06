@@ -1,0 +1,23 @@
+{
+  "id": 24,
+  "name": "뚝딱뚝딱 꽈배기스패너",
+  "part": "weapon",
+
+  "description": "무엇이든 금방 고쳐주는 만능 스패너. 이 스패너로 고친 부위에선 따끈따끈한 꽈배기 빵 냄새가 난다.",
+  "grade": "unique",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "꽈배기맛 쿠키",
+    "option": "최종 피해",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": null
+}

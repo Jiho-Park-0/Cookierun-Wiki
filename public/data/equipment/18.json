@@ -1,0 +1,23 @@
+{
+  "id": 18,
+  "name": "황금오렌지 초코창",
+  "part": "weapon",
+
+  "description": "황금오렌지 조각을 날카롭게 잘라 초콜릿을 묻힌 창. 창이 무뎌졌을 땐 다시 초콜릿에 담갔다 빼면 된다.",
+  "grade": "epic",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "공격력",
+    "minValue": 16,
+    "maxValue": 24
+  },
+
+  "set name": null
+}

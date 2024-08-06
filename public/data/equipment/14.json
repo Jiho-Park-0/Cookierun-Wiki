@@ -1,0 +1,23 @@
+{
+  "id": 14,
+  "name": "단단한 바게트 봉",
+  "part": "weapon",
+
+  "description": "가장 단단한 바게트로 만들었다는 봉. 휘두를 때마다 바삭한 빵가루가 날린다.",
+  "grade": "epic",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "치명타 피해",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": 4,
+  "name": "녹슨 롱소드",
+  "part": "weapon",
+
+  "description": "캔디의 색이 빠질 정도로 녹슬어버린 검. 원래 색이 어땠는지 가늠조차 할 수 없다.",
+  "grade": "uncommon",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 9.45,
+    "maxValue": 27
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "HP",
+    "minValue": 8,
+    "maxValue": 12
+  },
+
+  "set name": null
+}

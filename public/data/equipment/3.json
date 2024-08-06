@@ -1,0 +1,23 @@
+{
+  "id": 3,
+  "name": "평범한 나무지팡이",
+  "part": "weapon",
+
+  "description": "누군가의 캔디케인처럼 생긴 나무지팡이. 색까지 칠했다면 더 구분하기 어려웠을지도!",
+  "grade": "common",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 8.4,
+    "maxValue": 20
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "방어력",
+    "minValue": 4,
+    "maxValue": 6
+  },
+
+  "set name": null
+}

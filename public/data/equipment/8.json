@@ -1,0 +1,23 @@
+{
+  "id": 8,
+  "name": "나무꾼의 애착도끼",
+  "part": "weapon",
+
+  "description": "나무를 바삭바삭하게 잘라준다는 도끼. 사용한 지 오래되었지만 아직 쓸 만하다.",
+  "grade": "uncommon",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 9.45,
+    "maxValue": 27
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "방어력",
+    "minValue": 8,
+    "maxValue": 12
+  },
+
+  "set name": null
+}

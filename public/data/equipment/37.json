@@ -1,0 +1,23 @@
+{
+  "id": 37,
+  "name": "향긋한 플라워 티스푼",
+  "part": "weapon",
+
+  "description": "향긋한 꽃 향기가 나는 티스푼. 좋은 향이라고 계속 맡았다간 졸음이 쏟아질 수 있으니 조심해야 해!",
+  "grade": "unique",
+
+  "default": {
+    "option": "HP",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "캐모마일맛 쿠키",
+    "option": "회복량",
+    "minValue": 16,
+    "maxValue": 24
+  },
+
+  "set name": null
+}

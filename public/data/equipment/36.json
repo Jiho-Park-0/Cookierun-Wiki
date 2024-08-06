@@ -1,0 +1,23 @@
+{
+  "id": 36,
+  "name": "단단한 플랜틴 부메랑",
+  "part": "weapon",
+
+  "description": "플랜틴 과육을 단단히 뭉쳐 만든 부메랑. 바위도 부술 수 있는 견고함을 가졌다.",
+  "grade": "unique",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "플랜틴맛 쿠키",
+    "option": "최종 피해",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": null
+}

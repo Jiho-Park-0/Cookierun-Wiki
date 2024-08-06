@@ -1,0 +1,23 @@
+{
+  "id": 27,
+  "name": "수상한 연금술 플라스크",
+  "part": "weapon",
+
+  "description": "보글보글 기포가 올라오는 물약이 담긴 플라스크. 갓 완성한 걸까? 아직 온기가 남아있다.",
+  "grade": "unique",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "연금술사맛 쿠키",
+    "option": "최종 피해",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": null
+}

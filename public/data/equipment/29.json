@@ -1,0 +1,23 @@
+{
+  "id": 29,
+  "name": "락앤롤! 일렉기타",
+  "part": "weapon",
+
+  "description": "캔디 울림통에 바닐라 향을 입힌 일렉기타. 퍼포먼스로 부서지기도 하지만 어찌 된 일인지 다음 날이면 멀쩡하게 돌아와있다. 역시 락의 정신은 죽지 않아!",
+  "grade": "unique",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "락스타맛 쿠키",
+    "option": "버프 증폭",
+    "minValue": 16,
+    "maxValue": 24
+  },
+
+  "set name": null
+}

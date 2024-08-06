@@ -1,0 +1,23 @@
+{
+  "id": 38,
+  "name": "뾰족뾰족 두리안 바주카",
+  "part": "weapon",
+
+  "description": "뾰족한 가시가 장식된 바주카포. 포구에선 구릿한 두리안 냄새가 배어 있다.",
+  "grade": "unique",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "스팅두리안맛 쿠키",
+    "option": "최종 피해",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": null
+}

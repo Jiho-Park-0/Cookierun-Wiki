@@ -1,0 +1,23 @@
+{
+  "id": 20,
+  "name": "잘 익은 체리폭탄",
+  "part": "weapon",
+
+  "description": "달콤한 체리 향이 멀리까지 폴폴! 툭 건드리기만 해도 과즙이 터질 만큼 잘 익었다.",
+  "grade": "unique",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "체리맛 쿠키",
+    "option": "최종 피해",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": null
+}

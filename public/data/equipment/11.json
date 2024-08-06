@@ -1,0 +1,23 @@
+{
+  "id": 11,
+  "name": "튼튼한 롱소드",
+  "part": "weapon",
+
+  "description": "푸른 초코석을 제련해 만든 롱소드. 무거워서 두 손으로 들기도 버겁다.",
+  "grade": "rare",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 10.5,
+    "maxValue": 35
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "HP",
+    "minValue": 12,
+    "maxValue": 18
+  },
+
+  "set name": null
+}

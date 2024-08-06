@@ -158,7 +158,7 @@
     "name": "후끈후끈 거대 덤벨",
     "grade": "unique",
     "defaultOption": "HP",
-    "uniqueOption": "최종 피해"
+    "uniqueOption": "보호막량"
   },
   {
     "id": 24,
@@ -866,5 +866,12 @@
     "grade": "super epic",
     "defaultOption": "HP",
     "uniqueOption": "HP"
+  },
+  {
+    "id": 125,
+    "name": "이글이글 팔각 철퇴",
+    "grade": "unique",
+    "defaultOption": "공격력",
+    "uniqueOption": "최종 피해"
   }
 ]

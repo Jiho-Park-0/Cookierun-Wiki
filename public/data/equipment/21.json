@@ -1,0 +1,23 @@
+{
+  "id": 21,
+  "name": "별빛가득 천사지팡이",
+  "part": "weapon",
+
+  "description": "휘두를 때마다 별 가루가 떨어지는 신기한 지팡이. 가까이 두면 행운이 찾아온다고 한다.",
+  "grade": "unique",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "체리맛 쿠키",
+    "option": "회복량",
+    "minValue": 16,
+    "maxValue": 24
+  },
+
+  "set name": null
+}

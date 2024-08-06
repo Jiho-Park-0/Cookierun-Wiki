@@ -1,0 +1,23 @@
+{
+  "id": 22,
+  "name": "날쌘 닌자 수리검",
+  "part": "weapon",
+
+  "description": "날카롭게 빛나는 닌자 수리검. 경지에 오른 닌자는 바람처럼 빠르게 던질 수 있다고 한다.",
+  "grade": "unique",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "닌자맛 쿠키",
+    "option": "최종 피해",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": 32,
+  "name": "시원한 소다 레이피어",
+  "part": "weapon",
+
+  "description": "찰랑이는 소다가 들어있는 레이피어. 검의 기운을 이해하면 강력한 파도를 만들어낼 수 있다고 한다.",
+  "grade": "unique",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "크림소다맛 쿠키",
+    "option": "최종 피해",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": null
+}

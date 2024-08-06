@@ -1,0 +1,23 @@
+{
+  "id": 30,
+  "name": "트리플 핫! 페퍼건틀렛",
+  "part": "weapon",
+
+  "description": "레드페퍼 가문 후계자가 물려받는다는 가보. 제대로 다루지 못하면 새어 나오는 화기에 주변이 금방 잿가루로 변해버린다고 한다.",
+  "grade": "unique",
+
+  "default": {
+    "option": "HP",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "크러쉬드페퍼맛 쿠키",
+    "option": "보호막량",
+    "minValue": 16,
+    "maxValue": 24
+  },
+
+  "set name": null
+}

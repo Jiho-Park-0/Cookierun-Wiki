@@ -1,0 +1,23 @@
+{
+  "id": 25,
+  "name": "웨어울프 너클",
+  "part": "weapon",
+
+  "description": "한 눈에 봐도 무시무시한 회색 늑대의 발톱. 발톱을 세워 거칠게 휘두를수록 새까만 후춧가루가 튄다.",
+  "grade": "unique",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "웨어울프맛 쿠키",
+    "option": "최종 피해",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": 2,
+  "name": "낡은 장인의 망치",
+  "part": "weapon",
+
+  "description": "집 짓기 장인이 썼다는 망치. 이번에야말로 휴가에 간 걸까?",
+  "grade": "common",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 8.4,
+    "maxValue": 20
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "HP",
+    "minValue": 4,
+    "maxValue": 6
+  },
+
+  "set name": null
+}

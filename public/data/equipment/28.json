@@ -1,0 +1,23 @@
+{
+  "id": 28,
+  "name": "쫀득한 버블껌포",
+  "part": "weapon",
+
+  "description": "알록달록 색색의 껌이 들어있는 버블껌포. 다음에 어떤 색이 발사될지는 아무도 모른다구!",
+  "grade": "unique",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "버블껌맛 쿠키",
+    "option": "최종 피해",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": null
+}

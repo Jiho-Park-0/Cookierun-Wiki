@@ -1,0 +1,23 @@
+{
+  "id": 34,
+  "name": "금지된 딸기잼 마법검",
+  "part": "weapon",
+
+  "description": "지닌 자에게 저주를 내린다는 강력한 마법검. 새빨간 보석이 섬뜩하게 빛나고 있다.",
+  "grade": "unique",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "다크초코맛 쿠키",
+    "option": "최종 피해",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": 12,
+  "name": "무법자의 단검",
+  "part": "weapon",
+
+  "description": "독이라도 묻은 것처럼 위험해 보이는 단검. 하지만 핥아보면 포도맛이 난다.",
+  "grade": "rare",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 10.5,
+    "maxValue": 35
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "치명타 확률",
+    "minValue": 9,
+    "maxValue": 13.5
+  },
+
+  "set name": null
+}

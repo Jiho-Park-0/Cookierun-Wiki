@@ -1,0 +1,23 @@
+{
+  "id": 7,
+  "name": "연습용 나무검",
+  "part": "weapon",
+
+  "description": "수습 기사들이 쓰는 나무 검. 연습용이지만 훈련은 실전처럼 해야 해!",
+  "grade": "uncommon",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 9.45,
+    "maxValue": 27
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "기본 공격 피해",
+    "minValue": 6,
+    "maxValue": 9
+  },
+
+  "set name": null
+}

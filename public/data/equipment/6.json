@@ -1,0 +1,23 @@
+{
+  "id": 6,
+  "name": "뾰족뾰족 죽창",
+  "part": "weapon",
+
+  "description": "쿠키 크기로 적당히 잘라 만들었다. 휘두를 때마다 대나무 피리 소리가 난다.",
+  "grade": "uncommon",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 9.45,
+    "maxValue": 27
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "치명타 피해",
+    "minValue": 10,
+    "maxValue": 15
+  },
+
+  "set name": null
+}

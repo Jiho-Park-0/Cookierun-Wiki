@@ -1,0 +1,23 @@
+{
+  "id": 31,
+  "name": "쌉싸름한 호밀쌍권총",
+  "part": "weapon",
+
+  "description": "석양을 등지고 쏘면 백발백중이라는 호밀권총. 어느 파수꾼처럼 두 자루를 챙겨 가면 무서울 게 없다.",
+  "grade": "unique",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "호밀맛 쿠키",
+    "option": "최종 피해",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": null
+}

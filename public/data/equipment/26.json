@@ -1,0 +1,23 @@
+{
+  "id": 26,
+  "name": "사명이 깃든 피스타치오 방패",
+  "part": "weapon",
+
+  "description": "어떤 공격에도 굳건히 버틴다는 피스타치오 방패. 성스러운 빛의 기운이 깃들었다고 전해진다.",
+  "grade": "unique",
+
+  "default": {
+    "option": "HP",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": "피스타치오맛 쿠키",
+    "option": "보호막량",
+    "minValue": 16,
+    "maxValue": 24
+  },
+
+  "set name": null
+}

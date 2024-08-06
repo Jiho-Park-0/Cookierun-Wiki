@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "name": "이 빠진 빵칼",
+  "part": "weapon",
+
+  "description": "이가 나가서 잘 들지 않는 빵칼. 아무래도 케이크 병사가 잃어버린 것 같다.",
+  "grade": "common",
+
+  "default": {
+    "option": "공격력",
+    "minValue": 8.4,
+    "maxValue": 20
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "치명타 확률",
+    "minValue": 3,
+    "maxValue": 4.5
+  },
+
+  "set name": null
+}

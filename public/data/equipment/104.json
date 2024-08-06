@@ -1,0 +1,23 @@
+{
+  "id": 104,
+  "name": "화려한 가죽바지",
+  "part": "legwear",
+
+  "description": "질긴 젤리가죽을 선별해서 만든 바지. 벨트에 박힌 은색 스터드 장식이 화려하다.",
+  "grade": "rare",
+
+  "default": {
+    "option": "HP",
+    "minValue": 10.5,
+    "maxValue": 35
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "치명타 피해",
+    "minValue": 12,
+    "maxValue": 18
+  },
+
+  "set name": null
+}

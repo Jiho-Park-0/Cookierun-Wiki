@@ -1,0 +1,23 @@
+{
+  "id": 101,
+  "name": "딱딱한 나무 각반",
+  "part": "legwear",
+
+  "description": "아이스크림 막대를 잘라 다듬어 만든 나무 각반. 이제 넘어져도 부스러질 걱정 없다구!",
+  "grade": "uncommon",
+
+  "default": {
+    "option": "HP",
+    "minValue": 9.45,
+    "maxValue": 27
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "공격력",
+    "minValue": 8,
+    "maxValue": 12
+  },
+
+  "set name": null
+}

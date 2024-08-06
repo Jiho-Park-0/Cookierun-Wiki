@@ -1,0 +1,23 @@
+{
+  "id": 115,
+  "name": "바다의 인어 하의",
+  "part": "legwear",
+
+  "description": "물거품이 되어 사라졌다는 인어의 하의. 이제는 그가 사랑했던 바다의 일부가 되어 평생을 함께하겠지!",
+  "grade": "super epic",
+
+  "default": {
+    "option": "HP",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "물 속성 피해",
+    "minValue": 15,
+    "maxValue": 22.5
+  },
+
+  "set name": "바다의 인어 세트"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 122,
+  "name": "동방의 저명한 약초사 하의",
+  "part": "legwear",
+
+  "description": "뛰어난 실력을 가졌다는 약초사의 하의. 그가 내린 처방은 한 번도 잘못된 적이 없다!",
+  "grade": "super epic",
+
+  "default": {
+    "option": "HP",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "방어력",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": "동방의 저명한 약초사 세트"
+}

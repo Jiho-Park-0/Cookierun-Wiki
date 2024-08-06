@@ -1,0 +1,23 @@
+{
+  "id": 109,
+  "name": "빛나는 용의 황금갑옷",
+  "part": "legwear",
+
+  "description": "전해오는 황금 용의 이야기를 듣고 만든 갑옷. 위대한 용의 위엄을 나타내기 위해 진짜 황금으로 만들었다고 한다.",
+  "grade": "epic",
+
+  "default": {
+    "option": "HP",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "공격력",
+    "minValue": 16,
+    "maxValue": 24
+  },
+
+  "set name": null
+}

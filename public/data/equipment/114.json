@@ -1,0 +1,23 @@
+{
+  "id": 114,
+  "name": "불도깨비 하의",
+  "part": "legwear",
+
+  "description": "층 전체를 태워버릴 수도 있다는 불도깨비의 하의. 번쩍거리는 허리 장식엔 거대한 불길이 봉인되어 있다는데...",
+  "grade": "super epic",
+
+  "default": {
+    "option": "HP",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "불 속성 피해",
+    "minValue": 15,
+    "maxValue": 22.5
+  },
+
+  "set name": "불도깨비 세트"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 121,
+  "name": "달콤한 설탕 깃털복 하의",
+  "part": "legwear",
+
+  "description": "영롱한 빛깔이 은은하게 퍼지는 깃털복 하의. 하루 종일 빙글빙글 춤을 출 수 있을 것만 같다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "HP",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "모든 속성 공격력",
+    "minValue": 64,
+    "maxValue": 96
+  },
+
+  "set name": "달콤한 설탕 깃털복 세트"
+}

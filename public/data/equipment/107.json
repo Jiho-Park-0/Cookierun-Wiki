@@ -1,0 +1,23 @@
+{
+  "id": 107,
+  "name": "바나바나 스커트",
+  "part": "legwear",
+
+  "description": "거대한 바나나로 만든 바나나족 전통 치마. 줄기로 만든 벨트는 또 다른 포인트라고!",
+  "grade": "rare",
+
+  "default": {
+    "option": "HP",
+    "minValue": 10.5,
+    "maxValue": 35
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "받는 피해 감소",
+    "minValue": 4.8,
+    "maxValue": 7.2
+  },
+
+  "set name": null
+}

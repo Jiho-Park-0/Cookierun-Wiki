@@ -1,0 +1,23 @@
+{
+  "id": 106,
+  "name": "단단한 사슬 보호대",
+  "part": "legwear",
+
+  "description": "설탕사슬을 엮어 만든 바지에 보호대를 부착했다. 보호대가 워낙 매끄럽고 단단해서 무릎 썰매를 타도 거뜬하다.",
+  "grade": "rare",
+
+  "default": {
+    "option": "HP",
+    "minValue": 10.5,
+    "maxValue": 35
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "방어력",
+    "minValue": 12,
+    "maxValue": 18
+  },
+
+  "set name": null
+}

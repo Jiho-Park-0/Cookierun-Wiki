@@ -1,0 +1,23 @@
+{
+  "id": 100,
+  "name": "운동용 반바지",
+  "part": "legwear",
+
+  "description": "트레이닝 반바지의 기본 중 기본! 운동을 하는 쿠키라면 누구나 한 벌씩 갖고 있다.",
+  "grade": "common",
+
+  "default": {
+    "option": "HP",
+    "minValue": 8.4,
+    "maxValue": 20
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "방어력",
+    "minValue": 4,
+    "maxValue": 6
+  },
+
+  "set name": null
+}

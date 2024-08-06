@@ -1,0 +1,23 @@
+{
+  "id": 123,
+  "name": "전설의 유령해적 하의",
+  "part": "legwear",
+
+  "description": "엄청난 보물을 손에 넣었다는 해적의 하의. 유령이 된 후, 그의 야심과 함께 수많은 보물들은 깊은 바닷속에 수장되었다고 한다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "HP",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "HP",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": "전설의 유령해적 세트"
+}

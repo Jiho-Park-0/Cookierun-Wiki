@@ -1,0 +1,23 @@
+{
+  "id": 123,
+  "name": "예티의 눈폭풍 하의",
+  "part": "legwear",
+
+  "description": "반죽이 시리지 않도록 두툼하게 만든 하의. 너무 두꺼운 탓에 입으면 아장아장 걷게 된다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "HP",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "받는 피해 감소",
+    "minValue": 8,
+    "maxValue": 12
+  },
+
+  "set name": "예티의 눈폭풍 세트"
+}

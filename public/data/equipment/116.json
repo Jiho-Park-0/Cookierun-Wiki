@@ -1,0 +1,23 @@
+{
+  "id": 116,
+  "name": "바람의 요정 하의",
+  "part": "legwear",
+
+  "description": "심술이 나면 돌풍을 일으킨다는 장난꾸러기 요정의 하의. 옷자락이 흔들릴 때마다 반짝이는 꽃가루가 떨어진다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "HP",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "바람 속성 피해",
+    "minValue": 15,
+    "maxValue": 22.5
+  },
+
+  "set name": "바람의 요정 세트"
+}

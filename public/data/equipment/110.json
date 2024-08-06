@@ -1,0 +1,23 @@
+{
+  "id": 110,
+  "name": "어둠의 암살자 바지",
+  "part": "legwear",
+
+  "description": "이 바지를 입은 쿠키는 누구보다 빠르고 조용하게 달릴 수 있다고 한다. 유일한 단점은 오직 어둠 속에서만 가능하다는 것!",
+  "grade": "epic",
+
+  "default": {
+    "option": "HP",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "치명타 피해",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": null
+}

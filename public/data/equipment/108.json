@@ -1,0 +1,23 @@
+{
+  "id": 108,
+  "name": "영험한 베리석 바지",
+  "part": "legwear",
+
+  "description": "세상에서 단 하나뿐이라는 하트베리석이 박힌 벨트로 장식한 바지. 이 보석은 천년의 사랑도 이루어 준다고 하던데?",
+  "grade": "epic",
+
+  "default": {
+    "option": "HP",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "받는 피해 감소",
+    "minValue": 6.4,
+    "maxValue": 9.6
+  },
+
+  "set name": null
+}

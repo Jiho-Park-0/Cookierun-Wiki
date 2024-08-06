@@ -1,0 +1,23 @@
+{
+  "id": 118,
+  "name": "태양의 기사 하의",
+  "part": "legwear",
+
+  "description": "태양의 힘을 가졌다는 기사의 하의. 자세히 보면 일렁이는 황금빛이 갑옷을 감싸고 있다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "HP",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "빛 속성 피해",
+    "minValue": 15,
+    "maxValue": 22.5
+  },
+
+  "set name": "태양의 기사 세트"
+}

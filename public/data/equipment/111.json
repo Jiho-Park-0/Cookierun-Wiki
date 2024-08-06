@@ -1,0 +1,23 @@
+{
+  "id": 111,
+  "name": "신비한 별빛 스커트",
+  "part": "legwear",
+
+  "description": "밤하늘을 옮겨놓은 듯한 치마. 수많은 별들이 치맛단을 따라 반짝이는 것처럼 보인다.",
+  "grade": "epic",
+
+  "default": {
+    "option": "HP",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "디버프 증폭",
+    "minValue": 8,
+    "maxValue": 12
+  },
+
+  "set name": null
+}

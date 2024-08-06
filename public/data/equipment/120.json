@@ -1,0 +1,23 @@
+{
+  "id": 120,
+  "name": "순백의 사제 하의",
+  "part": "legwear",
+
+  "description": "치유의 힘이 가득한 새하얀 사제의 하의. 강하고 순수한 믿음을 지닐 수록 치유의 힘도 강해진다고 한다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "HP",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "회복량",
+    "minValue": 16,
+    "maxValue": 24
+  },
+
+  "set name": "순백의 사제 세트"
+}

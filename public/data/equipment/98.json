@@ -1,0 +1,23 @@
+{
+  "id": 98,
+  "name": "간편한 청바지",
+  "part": "legwear",
+
+  "description": "어떤 쿠키도 입기 좋은 디자인의 청바지. 젤리면을 이용해서 신축성도 좋다.",
+  "grade": "common",
+
+  "default": {
+    "option": "HP",
+    "minValue": 8.4,
+    "maxValue": 20
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "공격력",
+    "minValue": 4,
+    "maxValue": 6
+  },
+
+  "set name": null
+}

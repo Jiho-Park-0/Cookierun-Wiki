@@ -1,0 +1,23 @@
+{
+  "id": 119,
+  "name": "어둠의 백작 하의",
+  "part": "legwear",
+
+  "description": "캄캄한 밤이 올 때면 딸기잼을 갈망하게 된다는 어느 백작의 하의. 어둠 속에서 번뜩이는 눈과 마주쳤다면 도망쳐야 해!",
+  "grade": "super epic",
+
+  "default": {
+    "option": "HP",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "어둠 속성 피해",
+    "minValue": 15,
+    "maxValue": 22.5
+  },
+
+  "set name": "어둠의 백작 세트"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 103,
+  "name": "튼튼한 초코바지",
+  "part": "legwear",
+
+  "description": "딸기 펜으로 줄무늬를 넣어 한껏 멋스러워진 초코바지. 콜라젤리로 만든 벨트가 포인트를 준다.",
+  "grade": "uncommon",
+
+  "default": {
+    "option": "HP",
+    "minValue": 9.45,
+    "maxValue": 27
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "방어력",
+    "minValue": 8,
+    "maxValue": 12
+  },
+
+  "set name": null
+}

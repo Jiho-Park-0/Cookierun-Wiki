@@ -1,0 +1,23 @@
+{
+  "id": 117,
+  "name": "대지의 후예 하의",
+  "part": "legwear",
+
+  "description": "메마른 땅을 디딘 전사 부족의 하의. 허리춤을 장식한 대지의 돌들은 서로의 안녕을 바라는 의미라고 한다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "HP",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "대지 속성 피해",
+    "minValue": 15,
+    "maxValue": 22.5
+  },
+
+  "set name": "대지의 후예 세트"
+}

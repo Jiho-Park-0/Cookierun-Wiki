@@ -1,0 +1,23 @@
+{
+  "id": 102,
+  "name": "오래된 도복 바지",
+  "part": "legwear",
+
+  "description": "구멍이 뚫릴 정도로 오래된 도복 바지. 수없이 넘어지고 부딪혀도 포기하지 않는 정신이 담겼다.",
+  "grade": "uncommon",
+
+  "default": {
+    "option": "HP",
+    "minValue": 9.45,
+    "maxValue": 27
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "HP",
+    "minValue": 8,
+    "maxValue": 12
+  },
+
+  "set name": null
+}

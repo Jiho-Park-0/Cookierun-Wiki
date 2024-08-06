@@ -1,0 +1,23 @@
+{
+  "id": 112,
+  "name": "음악대의 나팔바지",
+  "part": "legwear",
+
+  "description": "어느 유명한 음악대가 입는다는 나팔바지. 진짜 나팔로 만들었다는 소문이 있는데 사실일까?",
+  "grade": "epic",
+
+  "default": {
+    "option": "HP",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "버프 증폭",
+    "minValue": 8,
+    "maxValue": 12
+  },
+
+  "set name": null
+}

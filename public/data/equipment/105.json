@@ -1,0 +1,23 @@
+{
+  "id": 105,
+  "name": "땅콩사막의 비단바지",
+  "part": "legwear",
+
+  "description": "땅콩가루 바람을 막아준다는 비단 바지. 사르륵 다리를 감는 감촉이 좋아 자꾸만 퍼덕이고 싶어진다.",
+  "grade": "rare",
+
+  "default": {
+    "option": "HP",
+    "minValue": 10.5,
+    "maxValue": 35
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "버프 증폭",
+    "minValue": 6,
+    "maxValue": 9
+  },
+
+  "set name": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": 99,
+  "name": "단순한 레깅스",
+  "part": "legwear",
+
+  "description": "요즘 인기라는 무늬 없는 레깅스. 입은 듯 안 입은 듯한 가벼운 착용감이 매력적이다.",
+  "grade": "common",
+
+  "default": {
+    "option": "HP",
+    "minValue": 8.4,
+    "maxValue": 20
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "HP",
+    "minValue": 4,
+    "maxValue": 6
+  },
+
+  "set name": null
+}

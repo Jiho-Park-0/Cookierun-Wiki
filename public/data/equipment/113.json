@@ -1,0 +1,23 @@
+{
+  "id": 113,
+  "name": "숲지기의 젤리 바지",
+  "part": "legwear",
+
+  "description": "천연 젤리로 만들어 자연친화적이라는 바지. 걸음 반동으로 흔들리는 옷단이 매력적이다.",
+  "grade": "epic",
+
+  "default": {
+    "option": "HP",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "방어력",
+    "minValue": 16,
+    "maxValue": 24
+  },
+
+  "set name": null
+}

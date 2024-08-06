@@ -1,0 +1,23 @@
+{
+  "id": 61,
+  "name": "전설의 유령해적 모자",
+  "part": "weapon",
+
+  "description": "탑의 모든 바다를 누볐다는 해적의 모자. 쓰고 있으면 잠시동안 유령이 될 수 있다던데...",
+  "grade": "super epic",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 8.19,
+    "maxValue": 31.2
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "디버프 증폭",
+    "minValue": 10,
+    "maxValue": 15
+  },
+
+  "set name": "전설의 유령해적 세트"
+}

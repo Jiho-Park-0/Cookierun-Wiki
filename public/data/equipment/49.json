@@ -1,0 +1,23 @@
+{
+  "id": 49,
+  "name": "유행하는 패션모자",
+  "part": "weapon",
+
+  "description": "생크림을 쭉 짠 것 같은 퐁실한 모양새의 모자. 이게 바로 요즘 유행이라구!",
+  "grade": "rare",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 6.3,
+    "maxValue": 21
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "방어력",
+    "minValue": 12,
+    "maxValue": 18
+  },
+
+  "set name": null
+}

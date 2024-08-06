@@ -1,0 +1,23 @@
+{
+  "id": 56,
+  "name": "반짝이는 황금장미 화관",
+  "part": "weapon",
+
+  "description": "황금장미로 만든 화관. 찬란하게 빛나는 모습에서 알 수 없는 고귀함이 느껴진다.",
+  "grade": "epic",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 6.93,
+    "maxValue": 26.4
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "치명타 확률",
+    "minValue": 12,
+    "maxValue": 18
+  },
+
+  "set name": null
+}

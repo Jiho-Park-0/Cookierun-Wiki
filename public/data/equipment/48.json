@@ -1,0 +1,23 @@
+{
+  "id": 48,
+  "name": "감각적인 반다나",
+  "part": "weapon",
+
+  "description": "새콤한 젤리로 만든 반다나. 탄성이 좋아 머리 크기에 상관없이 쓸 수 있다.",
+  "grade": "rare",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 6.3,
+    "maxValue": 21
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "치명타 피해",
+    "minValue": 15,
+    "maxValue": 22.5
+  },
+
+  "set name": null
+}

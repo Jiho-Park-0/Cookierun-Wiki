@@ -1,0 +1,23 @@
+{
+  "id": 60,
+  "name": "불도깨비 탈",
+  "part": "weapon",
+
+  "description": "불꽃을 삼켜 태어났다는 도깨비를 본뜬 탈. 타오르는 듯 빛나는 눈빛이 마치 살아있는 것만 같다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 8.19,
+    "maxValue": 31.2
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "불 속성 공격력",
+    "minValue": 80,
+    "maxValue": 120
+  },
+
+  "set name": "불도깨비 세트"
+}

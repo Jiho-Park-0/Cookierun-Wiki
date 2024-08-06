@@ -1,0 +1,23 @@
+{
+  "id": 55,
+  "name": "비밀스러운 대나무 삿갓",
+  "part": "weapon",
+
+  "description": "어두운 베일이 달린 대나무 삿갓. 쓰고 있으면 감쪽같이 기척이 사라진다는데 정말일까?",
+  "grade": "epic",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 6.93,
+    "maxValue": 26.4
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "치명타 피해",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": 47,
+  "name": "폭신한 니트 모자",
+  "part": "weapon",
+
+  "description": "달콤한 알사탕이 방울처럼 달린 니트 모자. 푹 눌러쓰면 어떤 추위도 견딜 수 있을 것 같아!",
+  "grade": "rare",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 6.3,
+    "maxValue": 21
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "보호막량",
+    "minValue": 9.6,
+    "maxValue": 14.4
+  },
+
+  "set name": null
+}

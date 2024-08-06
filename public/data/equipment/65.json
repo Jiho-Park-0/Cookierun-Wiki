@@ -1,0 +1,23 @@
+{
+  "id": 65,
+  "name": "어둠의 백작 모노클",
+  "part": "weapon",
+
+  "description": "그림자에 숨어 산다는 어느 백작의 모노클. 이 모노클을 쓰면 어둠 속에서도 사물을 잘 볼 수 있다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 8.19,
+    "maxValue": 31.2
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "어둠 속성 공격력",
+    "minValue": 80,
+    "maxValue": 120
+  },
+
+  "set name": "어둠의 백작 세트"
+}

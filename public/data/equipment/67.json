@@ -1,0 +1,23 @@
+{
+  "id": 61,
+  "name": "달콤한 설탕 깃털복 머리장식",
+  "part": "weapon",
+
+  "description": "디저트 파라다이스에서 날아왔다는 깃털로 만든 머리장식. 어디선가 달콤한 선율이 들려오는 듯하다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 8.19,
+    "maxValue": 31.2
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "공격력",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": "달콤한 설탕 깃털복 세트"
+}

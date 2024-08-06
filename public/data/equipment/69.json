@@ -1,0 +1,23 @@
+{
+  "id": 69,
+  "name": "예티의 눈폭풍 털모자",
+  "part": "weapon",
+
+  "description": "눈폭풍이 잦은 층에서 쓰는 모자. 예티의 털로 짠 직물을 사용해서 무척이나 따뜻하다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 8.19,
+    "maxValue": 31.2
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "HP",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": "예티의 눈폭풍 세트"
+}

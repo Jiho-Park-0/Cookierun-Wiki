@@ -1,0 +1,23 @@
+{
+  "id": 63,
+  "name": "대지의 후예 모자",
+  "part": "weapon",
+
+  "description": "대지의 뜻을 이어 간다는 어느 전사 부족의 모자. 쓰고 있으면 어딘가 마음이 고요해진다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 8.19,
+    "maxValue": 31.2
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "대지 속성 공격력",
+    "minValue": 80,
+    "maxValue": 120
+  },
+
+  "set name": "대지의 후예 세트"
+}

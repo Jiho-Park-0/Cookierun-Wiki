@@ -1,0 +1,23 @@
+{
+  "id": 45,
+  "name": "경비병의 강철투구",
+  "part": "weapon",
+
+  "description": "누군가를 지키는 경비병이라면 그 무게를 견딜 것! 투구로 얼굴 전체가 가려지지만 굳센 눈빛만큼은 숨길 수 없다.",
+  "grade": "uncommon",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 5.67,
+    "maxValue": 16.2
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "방어력",
+    "minValue": 8,
+    "maxValue": 12
+  },
+
+  "set name": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": 53,
+  "name": "불타는 마시멜로 모자",
+  "part": "weapon",
+
+  "description": "불이 붙은 마시멜로가 달린 모자. 오래 쓰고 있으면 더위에 어지러울 수 있으니 주의하자.",
+  "grade": "epic",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 6.93,
+    "maxValue": 26.4
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "보호막량",
+    "minValue": 12.8,
+    "maxValue": 19.2
+  },
+
+  "set name": null
+}

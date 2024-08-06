@@ -1,0 +1,23 @@
+{
+  "id": 54,
+  "name": "진주 박힌 은빛 티아라",
+  "part": "weapon",
+
+  "description": "깊은 바다에서 발견된 은색의 티아라. 영롱한 진주 속엔 어떤 비밀이라도 숨겨져 있는 것만 같다.",
+  "grade": "epic",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 6.93,
+    "maxValue": 26.4
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "회복량",
+    "minValue": 12.8,
+    "maxValue": 19.2
+  },
+
+  "set name": null
+}

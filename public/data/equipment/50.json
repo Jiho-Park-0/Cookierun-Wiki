@@ -1,0 +1,23 @@
+{
+  "id": 50,
+  "name": "두근두근 배달부모자",
+  "part": "weapon",
+
+  "description": "어떤 말들을 담고 누구에게 향하는 걸까. 배달부의 모자는 오늘도 기대감에 들썩들썩!",
+  "grade": "rare",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 6.3,
+    "maxValue": 21
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "HP",
+    "minValue": 12,
+    "maxValue": 18
+  },
+
+  "set name": null
+}

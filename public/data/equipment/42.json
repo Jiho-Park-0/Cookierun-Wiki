@@ -1,0 +1,23 @@
+{
+  "id": 42,
+  "name": "평범한 밀짚모자",
+  "part": "weapon",
+
+  "description": "따가운 햇살을 막아주는 든든한 모자. 쓸 때마다 바삭거리는 소리가 난다.",
+  "grade": "common",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 5.04,
+    "maxValue": 12
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "치명타 확률",
+    "minValue": 3,
+    "maxValue": 4.5
+  },
+
+  "set name": null
+}

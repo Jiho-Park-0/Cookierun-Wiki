@@ -1,0 +1,23 @@
+{
+  "id": 66,
+  "name": "순백의 사제 모자",
+  "part": "weapon",
+
+  "description": "깨끗한 기운이 가득한 새하얀 사제의 관. 정중앙에 박힌 푸른 보석을 보고 있으면 머리가 맑아지는 기분이 든다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 8.19,
+    "maxValue": 31.2
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "HP",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": "순백의 사제 세트"
+}

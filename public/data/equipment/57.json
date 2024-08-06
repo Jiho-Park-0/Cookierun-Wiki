@@ -1,0 +1,23 @@
+{
+  "id": 57,
+  "name": "예언자의 길잡이 모자",
+  "part": "weapon",
+
+  "description": "반짝이는 금빛 링과 나침반 바늘이 달린 모자. 이 모자를 쓰면 나아가야 할 운명의 길을 알려준다는데...",
+  "grade": "epic",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 6.93,
+    "maxValue": 26.4
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "방어력",
+    "minValue": 16,
+    "maxValue": 24
+  },
+
+  "set name": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": 46,
+  "name": "쫀득한 젤리 헌팅캡",
+  "part": "weapon",
+
+  "description": "거대한 젤리를 잘라 만들었다는 모자. 머리가 닿는 부분이 말랑해서 착용감이 좋다.",
+  "grade": "rare",
+
+  "default": {
+    "option": "모든 속성 피해",
+    "minValue": 6.3,
+    "maxValue": 21
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "방어력 관통",
+    "minValue": 6,
+    "maxValue": 9
+  },
+
+  "set name": null
+}

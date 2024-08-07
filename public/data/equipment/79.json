@@ -1,0 +1,23 @@
+{
+  "id": 79,
+  "name": "녹슨 사슬갑옷",
+  "part": "bodywear",
+
+  "description": "세월이 흘러 설탕사슬이 녹슬어버린 갑옷. 걸을 때마다 사슬끼리 부딪쳐 짤랑거리는 소리가 난다.",
+  "grade": "rare",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 10.5,
+    "maxValue": 35
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "공격력",
+    "minValue": 12,
+    "maxValue": 18
+  },
+
+  "set name": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": 95,
+  "name": "동방의 저명한 약초사 상의",
+  "part": "bodywear",
+
+  "description": "모르는 약초가 없다는 약토사의 상의. 한가득 짊어진 짐에서는 풀 냄새가 솔솔 난다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "HP",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": "동방의 저명한 약초사 세트"
+}

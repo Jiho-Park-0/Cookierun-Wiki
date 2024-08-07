@@ -1,0 +1,23 @@
+{
+  "id": 93,
+  "name": "순백의 사제 상의",
+  "part": "bodywear",
+
+  "description": "성스러운 축복이 깃든 새하얀 사제의 상의. 입고 있으면 온몸으로 깨끗한 기운이 퍼지는 걸 느낄 수 있다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "보호막량",
+    "minValue": 16,
+    "maxValue": 24
+  },
+
+  "set name": "순백의 사제 세트"
+}

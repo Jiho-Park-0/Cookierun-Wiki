@@ -1,0 +1,23 @@
+{
+  "id": 81,
+  "name": "블랙호딕 고딕 드레스",
+  "part": "bodywear",
+
+  "description": "오묘한 색이 아름다운 원단으로 만든 고딕풍 드레스. 잘 익은 포도를 장식해서 우아한 곡선을 살렸다.",
+  "grade": "epic",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "치명타 확률",
+    "minValue": 12,
+    "maxValue": 18
+  },
+
+  "set name": null
+}

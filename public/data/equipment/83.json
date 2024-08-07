@@ -1,0 +1,23 @@
+{
+  "id": 83,
+  "name": "로열 카카오 코트",
+  "part": "bodywear",
+
+  "description": "카카오 100% 초콜릿으로 만든 귀한 코트. 특수한 보호 마법이 걸려 있어 많은 쿠키들이 찾는다고 한다.",
+  "grade": "epic",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "회복량",
+    "minValue": 12.8,
+    "maxValue": 19.2
+  },
+
+  "set name": null
+}

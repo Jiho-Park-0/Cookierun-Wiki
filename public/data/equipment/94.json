@@ -1,0 +1,23 @@
+{
+  "id": 94,
+  "name": "달콤한 설탕 깃털복 상의",
+  "part": "bodywear",
+
+  "description": "디저트 파라다이스에서 영감을 얻어 만든 깃털복 상의. 입고 있으면 몸이 깃털처럼 가벼워진다!",
+  "grade": "super epic",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "방어력 관통",
+    "minValue": 10,
+    "maxValue": 15
+  },
+
+  "set name": "달콤한 설탕 깃털복 세트"
+}

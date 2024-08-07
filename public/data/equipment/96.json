@@ -1,0 +1,23 @@
+{
+  "id": 96,
+  "name": "예티의 눈폭풍 상의",
+  "part": "bodywear",
+
+  "description": "어떤 추위에도 끄떡없다는 상의. 여러 겹을 수없이 덧대어 만든 덕분에 냉기가 비집고 들어갈 틈조차 없다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "방어력",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": "예티의 눈폭풍 세트"
+}

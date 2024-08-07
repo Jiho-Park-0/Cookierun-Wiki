@@ -1,0 +1,23 @@
+{
+  "id": 76,
+  "name": "단단한 초코가죽갑옷",
+  "part": "bodywear",
+
+  "description": "고급 초코가죽으로 만들었다는 갑옷. 그래서 그런지 햇빛 아래에서 보면 가죽의 광택감이 남다르다.",
+  "grade": "uncommon",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 9.45,
+    "maxValue": 27
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "공격력",
+    "minValue": 8,
+    "maxValue": 12
+  },
+
+  "set name": null
+}

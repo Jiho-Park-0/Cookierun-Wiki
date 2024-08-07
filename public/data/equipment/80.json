@@ -1,0 +1,23 @@
+{
+  "id": 80,
+  "name": "살랑살랑 소다로브",
+  "part": "bodywear",
+
+  "description": "바람에 가볍게 팔랑이는 가벼운 재질의 로브. 소다를 넣어 만들었더니 두르고 있으면 시원하다.",
+  "grade": "rare",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 10.5,
+    "maxValue": 35
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "HP",
+    "minValue": 12,
+    "maxValue": 18
+  },
+
+  "set name": null
+}

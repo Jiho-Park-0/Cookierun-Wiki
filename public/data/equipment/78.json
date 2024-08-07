@@ -1,0 +1,23 @@
+{
+  "id": 78,
+  "name": "모험가의 튜닉",
+  "part": "bodywear",
+
+  "description": "모험가를 꿈꾸는 어느 쿠키가 애용했던 튜닉. 평범하지만 이만한 것도 없다.",
+  "grade": "rare",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 10.5,
+    "maxValue": 35
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "치명타 확률",
+    "minValue": 9,
+    "maxValue": 13.5
+  },
+
+  "set name": null
+}

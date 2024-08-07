@@ -1,0 +1,23 @@
+{
+  "id": 88,
+  "name": "바다의 인어 상의",
+  "part": "bodywear",
+
+  "description": "바다를 사랑했다는 인어의 상의. 신비롭게 하늘거리는 천이 물살을 가르는 인어를 연상케 한다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "물 속성 피해",
+    "minValue": 15,
+    "maxValue": 22.5
+  },
+
+  "set name": "바다의 인어 세트"
+}

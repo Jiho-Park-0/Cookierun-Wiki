@@ -1,0 +1,23 @@
+{
+  "id": 73,
+  "name": "따뜻한 갈색 니트",
+  "part": "bodywear",
+
+  "description": "어디서나 볼 수 있는 평범한 니트. 따뜻한 질감 덕에 날씨가 추워지면 인기 만점이다.",
+  "grade": "common",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 8.4,
+    "maxValue": 20
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "공격력",
+    "minValue": 4,
+    "maxValue": 6
+  },
+
+  "set name": null
+}

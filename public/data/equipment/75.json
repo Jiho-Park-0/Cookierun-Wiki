@@ -1,0 +1,23 @@
+{
+  "id": 75,
+  "name": "낡은 도복 상의",
+  "part": "bodywear",
+
+  "description": "다 해져버린 낡은 도복의 상의. 그만큼 누군가 열심히 했다는 증거겠지?",
+  "grade": "uncommon",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 9.45,
+    "maxValue": 27
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "HP",
+    "minValue": 8,
+    "maxValue": 12
+  },
+
+  "set name": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": 97,
+  "name": "전설의 유령해적 상의",
+  "part": "bodywear",
+
+  "description": "이제는 유령이 되어 떠돈다는 해적의 상의. 대해적이라 불렸던 시절도 이젠 과거에 불과하다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "공격력",
+    "minValue": 20,
+    "maxValue": 30
+  },
+
+  "set name": "전설의 유령해적 세트"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 86,
+  "name": "성스러운 사탕갑옷",
+  "part": "bodywear",
+
+  "description": "가장 위대한 기사에게 내려진다는 사탕갑옷. 가슴 부분에는 설탕순수도가 높은 레몬석이 달려있다.",
+  "grade": "epic",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "공격력",
+    "minValue": 16,
+    "maxValue": 24
+  },
+
+  "set name": null
+}

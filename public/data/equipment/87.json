@@ -1,0 +1,23 @@
+{
+  "id": 86,
+  "name": "불도깨비 상의",
+  "part": "bodywear",
+
+  "description": "불꽃을 마구잡이로 내뿜는다는 불도깨비의 상의. 이 옷을 입으면 뜨거운 열기 속에서도 견딜 수 있다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "불 속성 피해",
+    "minValue": 15,
+    "maxValue": 22.5
+  },
+
+  "set name": "불도깨비 세트"
+}

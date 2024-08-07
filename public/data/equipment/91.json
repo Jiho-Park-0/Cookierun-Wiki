@@ -1,0 +1,23 @@
+{
+  "id": 91,
+  "name": "태양의 기사 상의",
+  "part": "bodywear",
+
+  "description": "태양의 조각이 박혀 있다는 기사의 상의. 번쩍번쩍 광채나는 갑주는 빛이 없어도 멀리서 알아볼 수 있다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "빛 속성 피해",
+    "minValue": 15,
+    "maxValue": 22.5
+  },
+
+  "set name": "태양의 기사 세트"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 85,
+  "name": "마법의 블루베리 드레스",
+  "part": "bodywear",
+
+  "description": "달빛을 받고 자란 블루베리로 만든 드레스. 밤이 되면 달빛이 몸을 휘감아 지켜준다고 한다.",
+  "grade": "epic",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "HP",
+    "minValue": 16,
+    "maxValue": 24
+  },
+
+  "set name": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": 90,
+  "name": "대지의 후예 상의",
+  "part": "bodywear",
+
+  "description": "척박한 바람을 견뎌내며 살아가는 전사 부족의 상의. 이것만 있으면 거친 모래 폭풍 속에서도 거침없이 나아갈 수 있다!",
+  "grade": "super epic",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "대지 속성 피해",
+    "minValue": 15,
+    "maxValue": 22.5
+  },
+
+  "set name": "대지의 후예 세트"
+}

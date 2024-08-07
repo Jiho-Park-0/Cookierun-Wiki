@@ -1,0 +1,23 @@
+{
+  "id": 81,
+  "name": "고대의 황금 케이프",
+  "part": "bodywear",
+
+  "description": "어느 고대 지도자가 입었다는 황금 케이프. 화려한 장식들은 당시 지도자의 권위를 잘 보여준다.",
+  "grade": "epic",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "보호막량",
+    "minValue": 12.8,
+    "maxValue": 19.2
+  },
+
+  "set name": null
+}

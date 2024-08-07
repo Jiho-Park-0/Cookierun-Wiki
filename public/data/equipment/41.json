@@ -1,7 +1,7 @@
 {
   "id": 41,
   "name": "초코볼 투구",
-  "part": "weapon",
+  "part": "headwear",
 
   "description": "동그란 초코볼을 반으로 갈라 만든 투구. 생각보다 단단하지만 쿠키가 쓰기엔 헐렁하다.",
   "grade": "common",

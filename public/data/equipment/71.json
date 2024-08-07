@@ -1,0 +1,23 @@
+{
+  "id": 71,
+  "name": "가벼운 탱크탑",
+  "part": "bodywear",
+
+  "description": "더울 때 입기 좋은 시원한 민소매 셔츠. 팔이 자유로워서 옷가지에 걸릴 일이 없다.",
+  "grade": "common",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 8.4,
+    "maxValue": 20
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "방어력",
+    "minValue": 4,
+    "maxValue": 6
+  },
+
+  "set name": null
+}

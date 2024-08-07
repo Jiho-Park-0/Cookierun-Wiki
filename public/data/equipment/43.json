@@ -1,7 +1,7 @@
 {
   "id": 43,
   "name": "수습생의 고깔 모자",
-  "part": "weapon",
+  "part": "headwear",
 
   "description": "마법 수습생에게 주어지는 고깔모자. 쓰지 않으면 태도 점수에서 벌점을 받는다.",
   "grade": "uncommon",

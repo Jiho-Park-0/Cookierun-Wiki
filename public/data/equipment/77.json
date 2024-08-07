@@ -1,0 +1,23 @@
+{
+  "id": 77,
+  "name": "달콤한 캔디 블라우스",
+  "part": "bodywear",
+
+  "description": "사탕 껍질로 만든 블라우스. 옷깃에는 사탕의 달달한 향이 배어있다.",
+  "grade": "rare",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 10.5,
+    "maxValue": 35
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "회복량",
+    "minValue": 9.6,
+    "maxValue": 14.4
+  },
+
+  "set name": null
+}

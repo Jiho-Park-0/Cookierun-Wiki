@@ -1,0 +1,23 @@
+{
+  "id": 89,
+  "name": "바람의 요정 상의",
+  "part": "bodywear",
+
+  "description": "쿠키들에게 산뜻한 바람을 불어준다는 요정의 상의. 입으면 몸이 둥실둥실 떠오른다는데 바람에 날아가 버릴 수도 있으니 주의해야 한다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "바람 속성 피해",
+    "minValue": 15,
+    "maxValue": 22.5
+  },
+
+  "set name": "바람의 요정 세트"
+}

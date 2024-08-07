@@ -1,0 +1,23 @@
+{
+  "id": 84,
+  "name": "지혜의 버터망토",
+  "part": "bodywear",
+
+  "description": "어느 현자가 입었다는 버터망토. 두르기만 해도 반죽에 버터의 풍미가 가득해져서 매끄럽게 생각을 할 수 있는 능력을 잠깐 얻을 수 있다.",
+  "grade": "epic",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 11.55,
+    "maxValue": 44
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "받는 피해 감소",
+    "minValue": 6.4,
+    "maxValue": 9.6
+  },
+
+  "set name": null
+}

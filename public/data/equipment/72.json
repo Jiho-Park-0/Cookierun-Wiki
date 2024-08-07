@@ -1,0 +1,23 @@
+{
+  "id": 72,
+  "name": "편안한 쿠키셔츠",
+  "part": "bodywear",
+
+  "description": "활동하기 편한 티셔츠. 쿠키가 그려져서 어딘가 애정이 간다.",
+  "grade": "common",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 8.4,
+    "maxValue": 20
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "HP",
+    "minValue": 4,
+    "maxValue": 6
+  },
+
+  "set name": null
+}

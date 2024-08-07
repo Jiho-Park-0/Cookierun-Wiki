@@ -1,0 +1,23 @@
+{
+  "id": 74,
+  "name": "화려한 삼색 스웨터",
+  "part": "bodywear",
+
+  "description": "멋스러운 무늬가 프린팅된 스웨터. 톡톡 튀는 색깔로 모두의 시선을 사로잡는다.",
+  "grade": "uncommon",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 9.45,
+    "maxValue": 27
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "방어력",
+    "minValue": 8,
+    "maxValue": 12
+  },
+
+  "set name": null
+}

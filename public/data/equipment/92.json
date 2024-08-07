@@ -1,0 +1,23 @@
+{
+  "id": 92,
+  "name": "어둠의 백작 상의",
+  "part": "bodywear",
+
+  "description": "외딴 성에 홀로 산다는 어느 백작의 상의. 딸기잼처럼 새빨간 색이야말로 백작이 가장 좋아하는 색이라고 한다.",
+  "grade": "super epic",
+
+  "default": {
+    "option": "방어력",
+    "minValue": 13.65,
+    "maxValue": 52
+  },
+
+  "unique": {
+    "cookie": null,
+    "option": "어둠 속성 피해",
+    "minValue": 15,
+    "maxValue": 22.5
+  },
+
+  "set name": "어둠의 백작 세트"
+}
